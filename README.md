@@ -23,7 +23,7 @@ Installed gcc (GNU Compiler Collection) version 4.8.4 or newer.
 
 ## Example🛠️
 Clone repo using HTTPS
-$ git clone https://github.com/geraldinnebohr/simple_shell.git
+$ git clone https://github.com/OMIRAGI/simple_shell.git
 Compilation
 You can compile the files using this command to check that there are no errors:
 
